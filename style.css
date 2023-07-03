@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+  }
+  
+.contact-me {
+    background: rgba(8,145,178,255);
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.github-img {
+    height: 50px;
+}
+
+.social-links {
+    display: inherit;
+    column-gap: 10px;
+}
